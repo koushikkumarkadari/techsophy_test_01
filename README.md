@@ -10,5 +10,5 @@ This project implements an automated underwriting system for life insurance appl
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/underwriting-system.git
+   [git clone https://github.com/your-username/underwriting-system.git](https://github.com/koushikkumarkadari/techsophy_test_01)
    cd underwriting-system
