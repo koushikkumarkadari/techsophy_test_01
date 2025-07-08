@@ -1,0 +1,17 @@
+Risk Assessment for New Policy Applications
+
+Problem: Create an automated underwriting system that evaluates insurance applications and determines acceptance, rejection, or additional information needs.
+
+Skills Demonstrated:
+
+AI/ML: Implement risk scoring models, decision trees for underwriting rules, outlier detection
+
+Critical Thinking: Understand underwriting principles, balance risk acceptance vs business growth, consider regulatory compliance
+
+Problem Solving: Handle incomplete applications, conflicting information, edge cases in risk assessment
+
+Modular Structure: Separate application processing, risk evaluation, decision engine, and output generation
+
+Clear Architecture: Flow from application data → risk scoring → underwriting rules → decision output → next steps
+
+Deliverable: Automated underwriting system that processes applications and provides decisions with reasoning. 
